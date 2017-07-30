@@ -14,25 +14,9 @@ body{
     
 }
 
-
-#underline1, #underline2, #underline3, #underline4, #underline5, #underline6, #underline7, #underline8, #underline9{
+footer{
     
-        display: none;
-        float: left;
-        width: 50px;
-        height: 60px;
-        margin-right: 5px;
-    
-}
-
-#letter1, #letter2, #letter3, #letter4, #letter5, #letter6, #letter7, #letter8, #letter9{
-    
-    font-family: 'Gloria Hallelujah', cursive;
-    width: 50px;
-    height: 60px;
-    margin-bottom: 40px;
-    text-align: center;
-    font-size: 50px;
-    line-height: 60px;
+    position:fixed;
+    bottom:-7px;
     
 }
